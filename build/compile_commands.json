@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/ramchander/Projects/Personal/Snake/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED -I/Users/ramchander/Projects/Personal/Snake/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk/System/Library/Frameworks  -o CMakeFiles/Snake.dir/src/Engine/CameraSettings.cpp.o -c /Users/ramchander/Projects/Personal/Snake/src/Engine/CameraSettings.cpp",
+  "file": "/Users/ramchander/Projects/Personal/Snake/src/Engine/CameraSettings.cpp",
+  "output": "/Users/ramchander/Projects/Personal/Snake/build/CMakeFiles/Snake.dir/src/Engine/CameraSettings.cpp.o"
+},
+{
+  "directory": "/Users/ramchander/Projects/Personal/Snake/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED -I/Users/ramchander/Projects/Personal/Snake/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk/System/Library/Frameworks  -o CMakeFiles/Snake.dir/src/Engine/LifeCycle.cpp.o -c /Users/ramchander/Projects/Personal/Snake/src/Engine/LifeCycle.cpp",
+  "file": "/Users/ramchander/Projects/Personal/Snake/src/Engine/LifeCycle.cpp",
+  "output": "/Users/ramchander/Projects/Personal/Snake/build/CMakeFiles/Snake.dir/src/Engine/LifeCycle.cpp.o"
+},
+{
+  "directory": "/Users/ramchander/Projects/Personal/Snake/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED -I/Users/ramchander/Projects/Personal/Snake/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk/System/Library/Frameworks  -o CMakeFiles/Snake.dir/src/GameSettings.cpp.o -c /Users/ramchander/Projects/Personal/Snake/src/GameSettings.cpp",
+  "file": "/Users/ramchander/Projects/Personal/Snake/src/GameSettings.cpp",
+  "output": "/Users/ramchander/Projects/Personal/Snake/build/CMakeFiles/Snake.dir/src/GameSettings.cpp.o"
+},
+{
+  "directory": "/Users/ramchander/Projects/Personal/Snake/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED -I/Users/ramchander/Projects/Personal/Snake/src -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -F/Library/Developer/CommandLineTools/SDKs/MacOSX26.sdk/System/Library/Frameworks  -o CMakeFiles/Snake.dir/src/main.cpp.o -c /Users/ramchander/Projects/Personal/Snake/src/main.cpp",
+  "file": "/Users/ramchander/Projects/Personal/Snake/src/main.cpp",
+  "output": "/Users/ramchander/Projects/Personal/Snake/build/CMakeFiles/Snake.dir/src/main.cpp.o"
+}
+]

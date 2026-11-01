@@ -1,0 +1,11 @@
+# ninja log v7
+1	12	1793529317829238528	/Users/ramchander/Projects/Personal/Snake/build/CMakeFiles/cmake.verify_globs	9beade82e787b362
+14	49	1793529071833551073	CMakeFiles/Snake.dir/src/main.cpp.o	ec1a0e1720f72b50
+49	146	1793529071868340362	Snake	4964c6dbe6a0e5e
+13	79	1793529598181030787	build.ninja	bf0a88763c1cc121
+13	79	1793529598180617412	/Users/ramchander/Projects/Personal/Snake/build/cmake_install.cmake	bf0a88763c1cc121
+13	848	1793529013014580957	CMakeFiles/Snake.dir/src/GameSettings.cpp.o	5dd656f630e4679b
+10	481	1793423521921539637	CMakeFiles/Snake.dir/src/LifeCycle.cpp.o	335c2f61839d4a37
+14	46	1793423814031752447	CMakeFiles/Snake.dir/src/CameraSettings.cpp.o	809a1aa14c961034
+13	855	1793529013014119665	CMakeFiles/Snake.dir/src/Engine/CameraSettings.cpp.o	e72493add041329a
+13	1125	1793529013014406707	CMakeFiles/Snake.dir/src/Engine/LifeCycle.cpp.o	658308114f39c5f3
